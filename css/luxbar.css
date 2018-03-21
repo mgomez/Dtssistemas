@@ -21,16 +21,23 @@ header .header-brand a img {
   width: 100%;
 }
 header .header-menu-container {
+  background: -webkit-linear-gradient(top, #ffffff, #b5b5b5);
   background: linear-gradient(180deg, #ffffff, #b5b5b5);
 }
 header .header-menu {
   margin: 0;
   padding: 0;
   list-style: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
 }
 header .header-menu li {
-  flex: auto;
+  -webkit-box-flex: 1;
+  -webkit-flex: auto;
+      -ms-flex: auto;
+          flex: auto;
 }
 header .header-menu li a {
   border-bottom: 5px solid transparent;
@@ -40,19 +47,21 @@ header .header-menu li a {
   font-size: 18px;
   padding: 8px;
   text-decoration: none;
+  -webkit-transition: all .2s linear;
   transition: all .2s linear;
 }
 header .header-menu li a:hover,
 header .header-menu li a.active {
-  border-bottom-color: orange;
-  background: rgba(255, 165, 0, 0.16);
+  border-bottom-color: #43c8f5;
+  background: rgba(47, 50, 147, 0.09);
 }
 .footer {
   background: #fff;
   font-weight: 900;
-  border-top: 5px solid #ed6f23;
-  padding: 15px 0 35px 0;
+  border-top: 10px solid rgba(0, 0, 0, 0.06);
+  padding: 25px 0 35px 0;
   min-height: 130px;
+  margin-top: 15px;
 }
 .footer .footer-copy {
   text-align: right;
@@ -72,6 +81,7 @@ header .header-menu li a.active {
 #copy {
   padding: 35px;
   text-align: center;
+  background: -webkit-linear-gradient(top, #ffffff, #b5b5b5);
   background: linear-gradient(180deg, #ffffff, #b5b5b5);
 }
 #copy h5 {

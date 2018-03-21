@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>GLOBAL SECURITY | Seguridad electronica y comunicaciones</title>
+    <title>DTS Sistemas | Seguridad electronica y comunicaciones</title>
     <?php require("Views/Shared/head.php");?>
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 </head>
@@ -16,22 +16,22 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
-                    <form>
+                    <form id="frmContacto">
                         <div class="form-group">
                             <label>Nombre</label>
-                            <input type="text" name="nombre" class="form-control" placeholder="@nombre" required>
+                            <input type="text" name="nombre" class="form-control" placeholder="Nombre" required>
                         </div>
                         <div class="form-group">
                             <label>Correo</label>
-                            <input type="email" name="correo" class="form-control" placeholder="correo@tuempresa.com" required>
+                            <input type="email" name="correo" class="form-control" placeholder="Correo" required>
                         </div>
                         <div class="form-group">
                             <label>Telefono</label>
-                            <input type="number" name="telefono" class="form-control" placeholder="telefono">
+                            <input type="number" name="telefono" class="form-control" placeholder="Telefono">
                         </div>
                         <div class="form-group">
                             <label>Asunto</label>
-                            <input type="text" name="asunto" class="form-control" value="Comentario" placeholder="@asunto" required>
+                            <input type="text" name="asunto" class="form-control" value="Comentario" placeholder="Informacion" required>
                         </div>
                         <div class="form-group">
                             <label>Comentario</label>

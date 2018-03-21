@@ -45,13 +45,14 @@
                     <a href="tel:8115247741">
                         <i class="fa fa-phone fa-3x" aria-hidden="true"></i>
                         <br>
-                        <span>+52 (81)18068310</span>
+                        <span>(81) 25102763</span><br>
+                        <span>(81) 8126557021</span>
                     </a>
                 </div>
             </div>
             <div class="col">
                 <div class="footer-copy" data-aos="fade-up">
-                    <span>© Copyright 2017 GlobalSecurity</span>
+                    <span>© Copyright 2018 DTS Sistemas</span>
                 </div>
             </div>
         </div>

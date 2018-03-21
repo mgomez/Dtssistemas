@@ -14,6 +14,14 @@
     <section id="servicios" class="container">
         <div class="row">
             <div class="col-md-6">
+                <?php include("Views/Servicios/_controlesAccesos.php");?>
+            </div>
+            <div class="col-md-6">
+                <?php include("Views/Servicios/_barrerasVehiculares.php");?>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
                 <?php include("Views/Servicios/_cctv.php");?>
             </div>
             <div class="col-md-6">
@@ -26,14 +34,6 @@
             </div>
             <div class="col-md-6">
                 <?php include("Views/Servicios/_seguridadPerimetral.php");?>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <?php include("Views/Servicios/_barrerasVehiculares.php");?>
-            </div>
-            <div class="col-md-6">
-                <?php include("Views/Servicios/_controlesAccesos.php");?>
             </div>
         </div>
     </section>

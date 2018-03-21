@@ -12,14 +12,12 @@
 <body>
     <?php require("Views/Shared/header.php");?>
     <section id="nosotros">
-        <h1>Nosotros</h1>
+        <h1>QUIENES SOMOS</h1>
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
                     <div>
-                        <p>Global security Mx es una empresa Mexicana joven con gran experiencia en comunicación y seguridad electronica.</p>
-                        <p>Contamos con diferentes ramos , para brindarle soluciones en comunicaciones , cableado estructurado, cámaras de seguridad, alarmas contra incendio, seguridad perimetral , controles de acceso y barreras vehiculares, entre otros servicios , garantizando una integración completa de sus sistemas y mejorar los tiempos de sus necesidades.</p>
-                        <p>Somos un equipo que trabaja con valores, que conoce las necesidades actuales y se esfuerza diariamente por ofrecer lo más avanzado en tecnología, soporte técnico altamente especializado, un trato humano amable y el respaldo que su empresa demanda.</p>
+                        <p>Una empresa, cuyo objetivo es cubrir las necesidades de nuestros clientes; comenzamos en 1979 en el ramo de las telecomunicaciones; posteriormente fuimos creciendo especializándonos en tecnología, basándonos en las exigencias de nuestros clientes, brindando servicio tanto a Residencias como a  grandes y pequeños negocios.</p>
                         <div data-aos="fade-down">
                             <img src="img/nosotros.jpg" alt="nosotros" class="rimg">
                         </div>
@@ -28,20 +26,15 @@
                 <div class="col-md-4">
                     <div>
                         <h3>Misión</h3>
-                        <p>Brindar productos y servicios que generen a nuestros clientes una solución a sus necesidades, esforzándonos constantemente por exceder sus expectativas con calidad en el trabajo, tiempo esperado y servicio esmerado.</p>
+                        <p>Ofrecer las mejores soluciones en tecnología, innovando y brindándoles una mejora continua, un servicio de calidad, visualizando con objetividad las necesidades individuales de cada cliente.</p>
                     </div>
                     <div>
                         <h3>Visión</h3>
-                        <p>Consolidarnos como una organización en constante desarrollo, siendo parte activa del crecimiento del comercio y la industria.</p>
-                        <p>Creemos en nuestros VALORES como la esencia para cumplir con los objetivos que nos trazamos, trabajamos con pasión para ser una organización de excelencia:</p>
-                        <ul>
-                            <li>Sentido de responsabilidad</li>
-                            <li>Honestidad</li>
-                            <li>Organización</li>
-                            <li>Pertenencia e Identificación</li>
-                            <li>Unión y Trabajo en Equipo</li>
-                            <li>Innovación</li>
-                        </ul>
+                        <p>Ser una empresa plenamente identificada, profesional y responsable, brindar solución en tecnología  y así mismo brindar calidad en el servicio, otorgando respeto, honestidad y ante todo profesionalismo.</p>
+                    </div>
+                    <div>
+                        <h3>Objetivos</h3>
+                        <p>Brindarle atención personalizada e inmediata estando a la vanguardia en tecnología electrónica de seguridad y comunicación; siendo los mejores del mercado.</p>
                     </div>
                 </div>
             </div>
